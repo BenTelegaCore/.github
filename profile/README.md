@@ -26,7 +26,7 @@
 <!-- GitHub Stats -->
 <div align="center">
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenTelega &show_icons=true&theme=github_dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenTelega&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenTelega&layout=compact&theme=github_dark)
 
